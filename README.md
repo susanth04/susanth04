@@ -27,5 +27,5 @@ I build AI/ML pipelines, backend systems, and full-stack products — currently 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-stats-two-flax.vercel.app/api?username=susanth04&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="(https://github-stats-extended.vercel.app/api?username=susanth04&show_icons=true&theme=radical)&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
