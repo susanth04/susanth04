@@ -16,7 +16,7 @@ I build AI/ML pipelines, backend systems, and full-stack products — currently 
 <br/>
 ▶ Finalist — Nxtwave x OpenAI Academy Buildathon
 <br/>
-▶ Oracle Certified Professional: Java SE 17 Developer
+▶ Oracle Certified Professional: Java SE 17 Developer.
 
 **Tech Stack** ⚙️
 <br/>
