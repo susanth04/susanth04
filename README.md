@@ -2,7 +2,7 @@
 <tr>
 <td>
 
-**CSE student** |all i need is curiosity &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/susanth-kandregula-999702277) · [Email](mailto:susanth04.k@gmail.com)
+**CSE student** | all i need is curiosity &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/susanth-kandregula-999702277) · [Email](mailto:susanth04.k@gmail.com)
 
 </td>
 </tr>
